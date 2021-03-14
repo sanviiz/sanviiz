@@ -4,7 +4,7 @@
 - 👀 I’m interested in full stack developer
 - 🌱 I’ve worked with html, css, javascript since 2019
 - 💞️ I’m looking to collaborate on web application
-- 📫 How to reach me on facebook (Pakkaphong Akkabut)
+- 📫 You can reach me on facebook (Pakkaphong Akkabut)
 
 <!---
 sanviiz/sanviiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
