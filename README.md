@@ -3,7 +3,7 @@
 - 💻 I'm working in the role of a front end developer
 - 👀 I’m interested in full stack developer
 - 🌱 I’ve worked with html, css, javascript since 2019
-- 💞️ I’m looking to collaborate on web application
+- 💞️ I’m looking to collaborate about a web application
 - 📫 You can reach me on facebook (Pakkaphong Akkabut)
 
 <!---
